@@ -1,0 +1,10 @@
+BEGIN
+    INPUT PIN
+
+    IF PIN = 1234 THEN
+        PRINT "PIN Verified"
+    ELSE
+        PRINT "Incorrect PIN"
+    END IF
+
+END
