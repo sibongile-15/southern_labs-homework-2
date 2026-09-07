@@ -1,1 +1,1 @@
-print("southern labs session 02 completed")
+print("Southern Labs Session 02 Completed!")
